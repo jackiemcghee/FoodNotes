@@ -15,6 +15,8 @@ date-modified: 2026-09-13
 
 - [ ] Coke zero
 - [ ] 7-up
+- [ ] Kiwi fruit
+- [ ] Blueberries
 
 ## Breakfasts
 
