@@ -41,7 +41,7 @@ date-modified: 2026-09-13
 
 - [ ] Mutti sauce
 
-## Dinner 4 (Something else)
+## Dinner 4 (Waffles & bacon)
 
 - [ ] Self-raising flour
 - [ ] Bacon
