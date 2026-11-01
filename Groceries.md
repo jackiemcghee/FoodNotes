@@ -13,39 +13,34 @@ date-modified: 2026-09-13
 
 ## Sundries
 
-- [ ] Coke
+- [ ] Coke zero
 - [ ] 7-up
-- [ ] Apple pies
-- [ ] Blueberry muffins
-- [ ] Pasta box
 
 ## Breakfasts
 
-- [ ] Bacon
-- [ ] Haggis
-- [ ] Cheddar
-- [ ] Puff pastry
-- [ ] Eggs
-- [ ] Plain flour
-- [ ] Vanilla
-- [ ] Butter
-- [ ] Milk
-- [ ] 1901
+- [ ] Croissants
+- [ ] Chocolate spread
 
 ## Lunches
 
-## Dinner 1 (Roast chicken, chips & gravy)
+- [ ] Lettuce
+- [ ] Tomatoes
+- [ ] Cucumbers
+- [ ] Sweet peppers
+- [ ] Red onion
+- [ ] Feta
 
-- [ ] Chicken
-- [ ] Chips
-- [ ] Chicken gravy
+## Dinner 1 (Chicken fried rice)
 
-## Dinner 2 (Tuna, pasta & sweetcorn)
+## Dinner 2 (Hot dog wraps)
 
-- [ ] Tuna
-- [ ] Dried pasta
-- [ ] Sweetcorn
+- [ ] Hot dogs
+- [ ] Wraps
 
-## Dinner 3 ()
+## Dinner 3 (Pasta & hot dogs)
 
-## Dinner 4 ()
+- [ ] Mutti sauce
+
+## Dinner 4 (Waffles & bacon)
+
+- [ ] Self-raising flour
