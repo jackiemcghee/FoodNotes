@@ -44,3 +44,4 @@ date-modified: 2026-09-13
 ## Dinner 4 (Waffles & bacon)
 
 - [ ] Self-raising flour
+- [ ] Bacon
