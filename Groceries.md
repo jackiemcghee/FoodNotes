@@ -31,6 +31,8 @@ date-modified: 2026-09-13
 - [ ] Sweet peppers
 - [ ] Red onion
 - [ ] Feta
+- [ ] Lorne
+- [ ] 2 loose rolls
 
 ## Dinner 1 (Chicken fried rice)
 
