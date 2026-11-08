@@ -19,6 +19,7 @@ date-modified: 2026-09-13
 - [ ] Washing up liquid
 - [ ] Blueberries
 - [ ] Orange coloured citrus fruit
+- [ ] Food caddy bags
 
 ## Breakfasts
 
