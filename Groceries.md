@@ -15,39 +15,47 @@ date-modified: 2026-09-13
 
 - [ ] Coke zero
 - [ ] 7-up
-- [ ] Blueberry muffins
-- [ ] Chocolate
-- [ ] Unsalted butter
-- [ ] Dark muscovado sugar
-- [ ] Golden syrup
-- [ ] Black treacle
-- [ ] Fresh ginger
-- [ ] Milk
-- [ ] Large eggs
-- [ ] Lemon
-- [ ] Icing sugar
+- [ ] Brown sauce
+- [ ] Washing up liquid
+- [ ] Blueberries
+- [ ] Orange coloured citrus fruit
 
 ## Breakfasts
 
-- [ ] Eggs
-- [ ] Potato scones
-- [ ] McGhee's rolls
+- [ ] 2 x yoghurt
+- [ ] Honey
+- [ ] Granola
+- [ ] Juices
 
 ## Lunches
 
-## Dinner 1 (Macaroni cheese)
-
-- [ ] Macaroni
-- [ ] Cheddar
-- [ ] Milk
-
-## Dinner 2 (Gnocchi, rocket & tomatoes)
-
-- [ ] Gnocchi
-- [ ] Rocket
+- [ ] Bread
+- [ ] Ham
+- [ ] Gouda
 - [ ] Tomatoes
 
-## Dinner 3 ()
+## Dinner 1 (Curried fish fingers and rice)
 
-## Dinner 4 ()
+- [ ] Fish fingers
+- [ ] Curry sauce
+
+## Dinner 2 (Sausage egg and chips)
+
+- [ ] Sausages
+- [ ] Eggs
+
+## Dinner 3 (Prawn makhani masala)
+
+- [ ] Prawns
+- [ ] Double cream
+- [ ] Onion
+- [ ] Garlic
+- [ ] Ginger
+- [ ] Tin of tomatoes
+- [ ] Naan
+
+## Dinner 4 (Fresh pasta, and red cheese pesto)
+
+- [ ] Mushroom pasta
+- [ ] Red cheesy pesto
 

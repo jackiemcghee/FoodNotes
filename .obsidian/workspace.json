@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "MakhaniMasala.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "MakhaniMasala"
+            }
+          },
+          {
+            "id": "1021554887020cc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Groceries.md",
                 "mode": "source",
                 "source": true
@@ -21,7 +35,8 @@
               "title": "Groceries"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,6 +204,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "156d898a865b9f50",
-  "lastOpenFiles": []
+  "active": "1021554887020cc9",
+  "lastOpenFiles": [
+    "MakhaniMasala.md",
+    "Groceries.md"
+  ]
 }
