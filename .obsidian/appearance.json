@@ -1,5 +1,6 @@
 {
   "textFontFamily": "JetBrains Mono NL",
   "monospaceFontFamily": "JetBrains Mono NL",
-  "interfaceFontFamily": "JetBrains Mono NL"
+  "interfaceFontFamily": "JetBrains Mono NL",
+  "showRibbon": true
 }

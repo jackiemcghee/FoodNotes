@@ -14,13 +14,8 @@ date-modified: 2026-09-13
 ## Sundries
 
 - [ ] Coke zero
-- [ ] 7-up
-- [ ] Brown sauce
-- [ ] Washing up liquid
-- [ ] Blueberries
-- [ ] Orange coloured citrus fruit
-- [ ] Food caddy bags
-- [ ] Skips or Quavers
+- [ ] Sticking plasters
+- [ ] Savlon or similar
 
 ## Breakfasts
 
@@ -36,28 +31,23 @@ date-modified: 2026-09-13
 - [ ] Gouda
 - [ ] Tomatoes
 
-## Dinner 1 (Curried fish fingers and rice)
+## Dinner 1 (Marmite pasta)
 
-- [ ] Fish fingers
-- [ ] Curry sauce
+- [ ] Pasta
+- [ ] Butter
 
-## Dinner 2 (Sausage egg and chips)
+## Dinner 2 (Chickens in buns)
 
-- [ ] Sausages
-- [ ] Eggs
+- [ ] Brioche buns
+- [ ] Lettuce
+- [ ] Tomatoes
 
-## Dinner 3 (Prawn makhani masala)
+## Dinner 3 (Fritata)
 
-- [ ] Prawns
-- [ ] Double cream
-- [ ] Onion
-- [ ] Garlic
-- [ ] Ginger
-- [ ] Tin of tomatoes
-- [ ] Naan
+- [ ] Broccolli
+- [ ] Red onion
+- [ ] Green pepper
 
-## Dinner 4 (Fresh pasta, and red cheese pesto)
+## Dinner 4 ()
 
-- [ ] Mushroom pasta
-- [ ] Red cheesy pesto
 
