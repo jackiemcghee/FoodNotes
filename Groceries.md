@@ -2,7 +2,7 @@
 title: Groceries
 author: Jackie McGhee
 date-created: 2023-08-27
-date-modified: 2026-09-13
+date-modified: 2026-11-18
 ---
 
 # Groceries
@@ -13,40 +13,34 @@ date-modified: 2026-09-13
 
 ## Sundries
 
-- [ ] Coke zero
-- [ ] Sticking plasters
-- [ ] Savlon or similar
+- [ ] Treats
 
 ## Breakfasts
 
-- [ ] 2 x yoghurt
-- [ ] Honey
-- [ ] Granola
-- [ ] Juices
+- [ ] Bacon
+- [ ] Butter (both types)
+- [ ] McGhee's rolls
+- [ ] Lorne sausage
+- [ ] Potato scones
+- [ ] Eggs
+- [ ] Caster sugar
+- [ ] 2 x 1901
 
 ## Lunches
 
-- [ ] Bread
-- [ ] Ham
-- [ ] Gouda
-- [ ] Tomatoes
+## Dinner 1 (Baked potatoes)
 
-## Dinner 1 (Marmite pasta)
+- [ ] Baking potatoes
+- [ ] Chicken fillets
+- [ ] Sweetcorn
 
-- [ ] Pasta
-- [ ] Butter
+## Dinner 2 (Macaroni pies)
 
-## Dinner 2 (Chickens in buns)
+- [ ] Macaroni pies
+- [ ] Gammon/spam
+- [ ] Beans
 
-- [ ] Brioche buns
-- [ ] Lettuce
-- [ ] Tomatoes
-
-## Dinner 3 (Fritata)
-
-- [ ] Broccolli
-- [ ] Red onion
-- [ ] Green pepper
+## Dinner 3 ()
 
 ## Dinner 4 ()
 
