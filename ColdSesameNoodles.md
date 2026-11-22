@@ -13,7 +13,7 @@ date: 2026-09-13
 - [ ] 340g egg noodles
 - [ ] 2 tbsp ground nut oil
 - [ ] 2 tsp minced garlic
-- [ ] 2 tsp grated gnger
+- [ ] 2 tsp grated ginger
 - [ ] 2 tsp sesame seeds
 - [ ] 1 cucumber, julienned
 - [ ] 2 carrots, julienned

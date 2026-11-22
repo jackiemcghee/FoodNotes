@@ -13,35 +13,56 @@ date-modified: 2026-11-18
 
 ## Sundries
 
-- [ ] Treats
+- [ ] Coke
+- [ ] 7-up
+- [ ] Kiwi fruit
+- [ ] 2 x posh peelers
+- [ ] Blueberries
 
 ## Breakfasts
 
-- [ ] Bacon
-- [ ] Butter (both types)
-- [ ] McGhee's rolls
-- [ ] Lorne sausage
-- [ ] Potato scones
-- [ ] Eggs
-- [ ] Caster sugar
-- [ ] 2 x 1901
+- [ ] Croissants
+- [ ] Chocolate spread
 
 ## Lunches
 
-## Dinner 1 (Baked potatoes)
+- [ ] Tuna
+- [ ] Cheddar
+- [ ] Wraps
 
-- [ ] Baking potatoes
-- [ ] Chicken fillets
-- [ ] Sweetcorn
+## Dinner 1 (Macaroni pies, gammon & beans)
 
-## Dinner 2 (Macaroni pies)
+## Dinner 2 (Prawn, pea & chilli pasta)
 
-- [ ] Macaroni pies
-- [ ] Gammon/spam
-- [ ] Beans
+- [ ] Tagliatelle
+- [ ] Prawns
+- [ ] Garlic
+- [ ] Fresh chillies
+- [ ] Lemon
+- [ ] Rocket
+- [ ] Basil
 
-## Dinner 3 ()
+## Dinner 3 (Smashed courgette dip)
 
-## Dinner 4 ()
+- [ ] 2 large courgettes
+- [ ] Lemon
+- [ ] Feta
+- [ ] Fresh dill
+- [ ] Fresh basil
+- [ ] Fresh oregano (if possible)
+- [ ] Pita bread
+- [ ] Tomatoes
+
+## Dinner 4 (Cold sesame noodles)
+
+- [ ] 340g noodles
+- [ ] Garlic
+- [ ] Ginger
+- [ ] Cucumber
+- [ ] 1 or 2 carrots
+- [ ] Cyboes
+- [ ] Tahini
+- [ ] Peanut butter
+- [ ] Chilli paste
 
 
